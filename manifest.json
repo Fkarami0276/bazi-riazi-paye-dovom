@@ -1,0 +1,10 @@
+{
+  "name":"بازی ریاضی پایه دوم ابتدایی - خانم فاطمه کریمی اسکندری",
+  "short_name":"بازی ریاضی دوم",
+  "lang":"fa",
+  "dir":"rtl",
+  "start_url":"./",
+  "display":"standalone",
+  "theme_color":"#6c5ce7",
+  "background_color":"#f8f7ff"
+}
